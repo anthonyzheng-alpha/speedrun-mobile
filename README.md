@@ -219,3 +219,4 @@ See [ARCHITECTURE.md](./docs/ARCHITECTURE.md)
 
 [GPL-3.0 License](https://github.com/ankidroid/Anki-Android/blob/master/COPYING)  
 [AGPL-3.0 Licence](https://github.com/AnkiDroid/anki/blob/main/LICENSE) (anki submodule)
+# speedrun-mobile
